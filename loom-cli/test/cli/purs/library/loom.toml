@@ -23,7 +23,7 @@
     , ["purescript/purescript-maybe", "tags/v3.0.0", "e899c98c12e943b502eeef4cad7e472a2328299e"]
     , ["purescript/purescript-control", "tags/v3.3.1", "cc1df65efc4f2dbf4b2f572ddd76b34c610248eb"]
     , ["purescript/purescript-invariant", "tags/v3.0.0", "fe250c24bbcf835af9699a2c2ddec02388933ce6"]
-    , ["purescript/purescript-monoid", "tags/v3.3.0", "27592b5ec834ce75d41caec9d348f9d46c937c81"]
+    , ["purescript-deprecated/purescript-monoid", "tags/v3.3.0", "4df49ecb28928d1c5e516f97a9f5a07841937ae0"]
     , ["purescript/purescript-either", "tags/v3.1.0", "14880131f98f7d4f58d7230ac4dab6246465541e"]
     , ["purescript/purescript-bifunctors", "tags/v3.0.0", "3cbba5138592dbc6b0be3eba115eb3d9ce7fdd96"]
     , ["purescript/purescript-foldable-traversable", "tags/v3.6.1", "db20bc210f733f20a884151cfd636af5f6904303"]
